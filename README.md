@@ -1,3 +1,5 @@
+Intern ID: CITS9988
+
 # Supermarket Sales Analysis
 
 ## Project Overview
